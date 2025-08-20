@@ -6,6 +6,9 @@ It uses the **`google/flan-t5-large`** model for factual Q&A and maintains short
 
 The chatbot runs entirely in the terminal, remembers the last few conversation turns, and exits gracefully when the user types `/exit`.
 
+## 🎥 Demo Video
+[Watch the demo here](https://drive.google.com/file/d/1AwMkGY8fFG8CCzqG1D27X-uG5x7pPZ8V/view?usp=drive_link)
+
 ---
 
 ## 🛠 Requirements
