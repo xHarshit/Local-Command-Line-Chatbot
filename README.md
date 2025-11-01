@@ -9,7 +9,7 @@ The chatbot runs entirely in the terminal, remembers the last few conversation t
 ---
 
 ## 🎥 Demo Video
-[Demo video of the project](https://drive.google.com/file/d/1AwMkGY8fFG8CCzqG1D27X-uG5x7pPZ8V/view?usp=drive_link)
+[Demo video of the project](https://drive.google.com/file/d/1vlzBJoOGSSWJrphJx-s_iZKMq4R1UDOJ/view?usp=sharing)
 
 ---
 
